@@ -1,41 +1,42 @@
-# 🚀 My First GitHub Repository
+# 👋 Hi, I'm Karni Yugandhar  
 
-Welcome to my GitHub profile! 🎉  
-This is my learning journey in **programming and development**.  
-Here, I will be uploading my practice codes, small projects, and experiments.  
-
----
-
-## 🛠️ Skills & Technologies
-
-- **C Language** – Basics of programming, loops, arrays, functions  
-- **Python** – Variables, data types, conditionals, loops, and simple scripts  
-- **JavaScript** – Basics of web programming, operators, loops, and string handling  
+Welcome to my GitHub profile! 🚀  
+I’m a beginner programmer exploring the world of **C, Python, and JavaScript**.  
+This space is where I share my learning journey, practice codes, and small projects.  
 
 ---
 
-## 📂 What You’ll Find Here
+## 🛠️ Skills & Technologies  
 
-- Small practice programs  
+- 🔹 **C Language** – Basics of programming, loops, arrays, and functions  
+- 🔹 **Python** – Variables, data types, conditionals, loops, and simple scripts  
+- 🔹 **JavaScript** – Web basics, operators, loops, and string handling  
+
+---
+
+## 📂 What You’ll Find Here  
+
+- Beginner-friendly practice programs  
 - Problem-solving exercises  
-- Beginner projects combining my skills in **C, Python, and JavaScript**  
+- Small projects combining **C, Python, and JavaScript**  
 
 ---
 
-## 🎯 Goals
+## 🎯 My Goals  
 
 - Improve problem-solving skills with **DSA (Data Structures & Algorithms)**  
-- Build small projects in **Python** and **JavaScript**  
-- Learn about **web development** and **backend development**  
+- Build beginner projects using **Python** and **JavaScript**  
+- Learn more about **web development** and **backend programming**  
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me  
 
-- 🌐 GitHub: [Your GitHub Profile Link Here]  
-- 📧 Email: [Your Email Here]  
+- 🌐 GitHub: [github.com/karniyugandhar](https://github.com/karniyugandhar)  
+- 📧 Email: *[karniyugandhar0@gmail.com]*  
 
 ---
 
-⭐ Feel free to explore and give suggestions to improve my code.  
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and drop suggestions.  
 Let’s grow together as developers! 🚀
+
